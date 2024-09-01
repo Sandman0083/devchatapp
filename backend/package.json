@@ -1,0 +1,16 @@
+{
+  "name": "chat-app-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "msnodesqlv8": "^4.2.1",
+    "mssql": "^7.0.0",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.0.0"
+  }
+}
